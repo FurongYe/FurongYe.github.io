@@ -11,54 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Leiden University, 2022 ([Benchmarking discrete optimization heuristics: from building a sound experimental environment to algorithm configuration](https://scholarlypublications.universiteitleiden.nl/handle/1887/3304813))
+* M.E. in Computer Engineering, Xiamen University, 2017
+* B.E. in Computer Science and Technology, Xiamen University, 2014
+* B.S. in (Mathematical) Statistics, Wang Yanan Institute for Studies in Economics (WISE), Xiamen University, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - Now
+  * Leiden University
+  * [XAIPRE](https://xaipre.leidenuniv.nl/) project: Explainable AI For Predictive Maintenance
+  * Postdoc
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023 - 2024
+  * Institute of Software, Chinese Academy of Sciences
+  * Hyperparameter Optimization for SAT and MaxSAT solvers.
+  * Research Associate/Postdoc
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2022 - 2023
+  * Leiden University
+  * [DACCOMPLI](https://www.nwo.nl/en/projects/628011002) project: Dynamic Data Analytics through automatically Constructed Machine Learning Pipelines
+  * Postdoc
